@@ -11,7 +11,7 @@ Requirements
 
 Tiny Rover use few items:
 
-* An [ATTiny85](http://www.atmel.com/devices/attiny85.aspx) microcontroller which will be the “brain” of the rover.
+* An [ATtiny85](http://www.atmel.com/devices/attiny85.aspx) microcontroller which will be the “brain” of the rover.
 * A [Sharp GP2Y0A21YK0F](http://www.adafruit.com/product/164) IR distance sensor, which will be the “eyes” of the rover.
 * A [LD293D](http://www.adafruit.com/products/807) motor driver, which will be the “nerves” of the rover.
 * Two DC motors which will be the “muscles” of the rover
