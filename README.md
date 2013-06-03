@@ -4,7 +4,7 @@ TinyRover
 TinyRover is an ATtiny85 based obstacle avoiding rover, programmed with Arduino IDE. The goal of this rover is to use few items and signals.
 
 * [Youtube video of TinyRover in action](http://www.youtube.com/watch?v=7z_jytPrwxs)
-* [The story of its birth](https://goddess-gate.com/projects/en/arduino/tinyrover)
+* [The story of its birth](http://goddess-gate.com/projects/en/arduino/tinyrover)
 
 
 Requirements
