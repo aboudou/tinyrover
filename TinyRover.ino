@@ -1,13 +1,13 @@
 // Motor 1 (right) forward pin (PB3 = digital pin 3)
-#define MOTOR1FWDPIN 3
+const byte MOTOR1FWDPIN = 3;
 // Motor 1 (right) reverse pin (PB4 = digital pin 4)
-#define MOTOR1RVSPIN 4
+const byte MOTOR1RVSPIN = 4;
 // Motor 2 (left) forward pin (PB0 = digital pin 0)
-#define MOTOR2FWDPIN 0
+const byte MOTOR2FWDPIN = 0;
 // Motor 2 (left) reverse pin (PB2 = digital pin 1)
-#define MOTOR2RVSPIN 1
+const byte MOTOR2RVSPIN = 1;
 // IR sensor pin (ADC1 = analog pin 1 != digital pin 1)
-#define IRPIN 1
+const byte IRPIN = 1;
 
 // Make the rover going forward
 void forwardRover() {
